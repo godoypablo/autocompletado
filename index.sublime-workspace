@@ -1,0 +1,332 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"aling",
+				"align-content"
+			],
+			[
+				"fa",
+				"Facturacion/"
+			],
+			[
+				"tc",
+				"llamada-telefonica.png\tw:16 h:16"
+			],
+			[
+				"tc01",
+				"TC01_tb.jpg\tw:277 h:187"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"ne",
+				"productos-nemesis.html"
+			],
+			[
+				"pro",
+				"productos-CR.html"
+			],
+			[
+				"productos",
+				"productos-FC.html"
+			],
+			[
+				"pr",
+				"productos-Q.html"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"bor",
+				"border-style"
+			],
+			[
+				"just",
+				"justify"
+			],
+			[
+				"alig",
+				"text-align"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"p",
+				"popper.min.js"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 321,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 192.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package control",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:install",
+				"Package Control: Install Package"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Add Channel"
+			]
+		],
+		"width": 548.0
+	},
+	"console":
+	{
+		"height": 190.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/usuario/AppData/Roaming/Sublime Text 3/Packages/Emmet/Default (Windows).sublime-keymap",
+		"/C/Users/usuario/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/C/Archi/filtros.php",
+		"/C/Archi/mensaje.php",
+		"/C/Users/usuario/Desktop/ejemplo.html",
+		"/C/xampp/htdocs/hsc/index.html",
+		"/C/Users/usuario/Downloads/filtros.php",
+		"/C/Users/usuario/Downloads/validar_usuario.php",
+		"/C/Users/usuario/Downloads/ppal.php",
+		"/C/Users/usuario/Downloads/index.php",
+		"/C/Users/usuario/Downloads/seguridad.php",
+		"/C/Users/usuario/Downloads/funciones.php",
+		"/C/Users/usuario/Downloads/Conx.php",
+		"/C/xampp/htdocs/hsc/productos-CR.html",
+		"/C/xampp/htdocs/hsc/productos-HC.html",
+		"/C/xampp/htdocs/hsc/productos-FC.html",
+		"/C/xampp/htdocs/hsc/productos-AP.html",
+		"/C/xampp/htdocs/hsc/css/style.css",
+		"/C/xampp/htdocs/hsc/landingpage/css/estilos.css",
+		"/C/xampp/htdocs/hsc/landingpage/index.html",
+		"/C/xampp/htdocs/hsc/productos-TC.html",
+		"/C/xampp/htdocs/hsc/productos.html",
+		"/C/xampp/htdocs/hsc/productos-nemesis.html",
+		"/C/Users/usuario/Desktop/tarjeta.css",
+		"/C/xampp/htdocs/hsc/css/grid.css",
+		"/C/xampp/htdocs/hsc/css/!!camera.css",
+		"/C/xampp/htdocs/hsc/css/camera.css",
+		"/C/xampp/htdocs/LandingPage/css/estilos.css",
+		"/C/xampp/htdocs/landingpage/indexConFormModal.html",
+		"/C/xampp/htdocs/LandingPage/index.html",
+		"/C/xampp/htdocs/landingpage/productos-TC.html",
+		"/C/xampp/htdocs/LandingPage/grid.html",
+		"/C/Users/usuario/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+		"/C/xampp/htdocs/LandingPage/index1.html",
+		"/C/Users/usuario/Downloads/navbarNoAnda/index.html",
+		"/C/xampp/htdocs/landingpage/grid.html",
+		"/C/xampp/htdocs/LandingPage/Backup_Previo_10042018/index.html",
+		"/C/xampp/htdocs/LandingPage/js/jqurey-3.3.1.min.js",
+		"/C/xampp/htdocs/LandingPage/js/jquery.js",
+		"/C/Users/usuario/AppData/Roaming/Sublime Text 3/Packages/Web Inspector/swi.sublime-settings",
+		"/C/xampp/htdocs/landingpage/js/jquery1_10_2.js",
+		"/C/Users/usuario/Desktop/base.html",
+		"/C/Program Files (x86)/Sublime Text 3/changelog.txt",
+		"/C/Users/usuario/Desktop/algo.html",
+		"/C/Users/usuario/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 321,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								299,
+								299
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 408.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
